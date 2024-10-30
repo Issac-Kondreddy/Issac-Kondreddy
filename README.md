@@ -6,7 +6,7 @@
 - 🛠 Currently working on **a Microservices-Based E-Commerce Recommendation System**
 - 🌱 Constantly learning and exploring **Machine Learning algorithms** and **Backend Development**
 - 💬 Got questions about **Python, Django, Docker, or APIs? I'm here to help!**
-- 💬 Want to Collabrate for Research and Projects in Machine learning and Backend? I am Up!!
+- 💬 Want to collaborate on Research or Projects in Machine Learning and Backend? I’m up for it!
 - 📫 Reach me at **issackondreddy@gmail.com**
 - 📄 Check out my [Portfolio](https://issackondreddy.com)
 
@@ -35,10 +35,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
     </a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/373713/json-official.svg" alt="JWT" width="40" height="40"/>
     </a>
     <a href="https://oauth.net/2/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/oauth.png" alt="OAuth" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/439036/web-authentication-api.svg" alt="OAuth" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
