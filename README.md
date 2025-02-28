@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Issac Kondreddy</h1>
-<h3 align="center">Aspiring ML Engineer & Backend Developer with a deep passion for AI and Quantum Computing!</h3>
+<h3 align="center">Aspiring ML Engineer & Data Scientist with a deep passion for AI and Quantum Computing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Issac-Kondreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Issac-Kondreddy" /> </p>
 
