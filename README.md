@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Issac-Kondreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Issac-Kondreddy" /> </p>
 
-- 🛠 Currently working on **a Microservices-Based E-Commerce Recommendation System**
+- 🛠 Currently working on **Web Application of Lung Cancer Detection using CT Scans using Machine Learning**
 - 🌱 Constantly learning and exploring **Machine Learning algorithms** and **Backend Development**
 - 💬 Got questions about **Python, Django, Docker, or APIs? I'm here to help!**
 - 💬 Want to collaborate on Research or Projects in Machine Learning and Backend? I’m up for it!
